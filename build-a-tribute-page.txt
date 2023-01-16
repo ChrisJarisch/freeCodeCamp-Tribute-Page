@@ -1,0 +1,70 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+  <main id="main">
+    <h1 id="title">Adolphe Sax</h1>
+    <p>The Inventor Of The Saxophone</p>
+     <figure id="img-div">
+        <img
+          id="image"
+          src="https://i0.wp.com/rayhaber.com/wp-content/uploads/2022/06/Adolphe-Sax-Saksofonun-Patentini-Aldi.jpg?resize=678%2C381&ssl=1"
+          alt="Aldop[he Sax and saxophones"
+        />
+        <figcaption id="img-caption">
+          Adolphe Sax and saxophones
+          </figcaption>
+          </figure>
+          <section id="tribute-info">
+            <h3 id="headline">A Timeline Of Sax's Life</h3>
+    <ul>
+      <li><strong>1814</strong> - born Nov. 6 in Dinant, Belgium</li>
+      <li>studied at Royal Conservatory of Brussels</li>
+      <li>faced many brushes with death</li>
+      <li>patented bass clarinet design at age 24</li>
+      <li><strong>28 June 1846</strong> -patented saxophone</li>
+      <li><strong>1857</strong> -got teaching job at Paris Conservatory</li>
+      <li>filed bankruptcy 3 times (1852,1873, and 1877)</li>
+      <li><strong>1853-1858</strong> suffered lip cancer</li>
+      <li><strong>1894</strong> -died of pnuemonia, in poverty</li>
+     <li>buried at Cimitiere de Montmarte in Paris</li>
+   </ul> 
+    <h3>
+          If you'd like, you can read more about this incredible individual on his
+          <a
+            id="tribute-link"
+            href="https://en.wikipedia.org/wiki/Adolphe_Sax"
+            target="_blank"
+            >Wikipedia entry</a
+          >
+        </h3> 
+  </main>  
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+body {
+  text-align: center;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: center;
+  line-height: 1.6;
+}
+img {
+  display: block;
+}
+#image {
+  max-width: 100%;
+}
+
+** end of undefined **
+
